@@ -1,17 +1,7 @@
 /*************************************************************************\
- *                  Copyright (C) Michael Kerrisk, 2014.                   *
- *                                                                         *
- * This program is free software. You may use, modify, and redistribute it *
- * under the terms of the GNU General Public License as published by the   *
- * Free Software Foundation, either version 3 or (at your option) any      *
- * later version. This program is distributed without any warranty.  See   *
- * the file COPYING.gpl-v3 for details.                                    *
+ * Name:Sayd Mateen
+ * Class:CSC 60
 * \*************************************************************************/
-/*
-*
-* Name:Sayd Mateen
-* Modified this program to work with the stats command.
-*\
 
 
 #define _BSD_SOURCE     /* Get major() and minor() from <sys/types.h> */
